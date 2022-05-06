@@ -2,7 +2,7 @@
     <string name="app_name">Final_Project</string>
     <string name="button_text">Get Info</string>
     <string name="web_url">http://api.openweathermap.org/geo/1.0/direct?q=</string>
-    <string name="api_key">704fdb79c657d75896da3baa82faddbc</string>
+    <string name="api_key">[Your API Key]</string>
     <string name="hint_text">Enter U.S. State (e.g. illinois)</string>
     <string name="title_activity_maps">MapsActivity</string>
     <string name="read_error">Unable to get location data</string>
